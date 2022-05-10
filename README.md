@@ -1,7 +1,7 @@
 # RD Levels
 All of my Rhythm Doctor Levels (So far...)
 
-All levels I Made are posted [here](https://github.com/HyperHaxStudios/RD-Levels/Releases/latest)
+All levels I Made are posted [here](https://github.com/HyperHaxStudios/RD-Levels/releases/latest)
 
 # Installing Rhythm Doctor Levels
 1. On the main menu go to Custom Levels
